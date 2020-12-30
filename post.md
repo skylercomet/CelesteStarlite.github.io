@@ -1,5 +1,7 @@
 ---
-title: Test Post
-layout: Post
+title: Posts
+layout: default
 ---
-<h1>{{ "first post test" }}</h1>
+# header af #
+
+Can I make a [link](/poem/2020/12/30/poems) to something?
