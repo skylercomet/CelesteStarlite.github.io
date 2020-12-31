@@ -8,7 +8,7 @@ Hi! My name is Celeste. I've found myself fascinated with creative writing even 
 
 As I began to leave my comfort zone and put myself out there, I found myself streaming on Twitch. Despite my anxiety, I found a heartwarming community and found incredible support for it. Now, I'm a proud part of the VTuber community, a group of streamers and video creators that are represented by virtual models. Now, you can find me streaming multiple times a week playing games and cracking jokes with friends.
 
-![Image](/assets/Celeste's Character Sheet (@Inkcurry).png)
+![Image](/assets/charsheet.png)
 
 ##### Character sheet by [@Inkcurry](https://twitter.com/Inkcurry)
 
