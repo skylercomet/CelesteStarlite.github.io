@@ -16,10 +16,13 @@ As I began to leave my comfort zone and put myself out there, I found myself str
 
 This is my Twitter. Here I post updates on just about everything I work on, so it's the best way to keep up to date with what I do, whether it be streaming, writing, or general life updates. Of course, I also like to mess around a lot, but if my goal is to make you smile then you can't expect me to be serious all the time! Either way, it's the best way to interact with me casually.
 
-https://twitter.com/celestestarlite
+[Twitter](https://twitter.com/celestestarlite)
 
 Here is my Twitch, where I stream myself playing games as a VTuber! It's a great way to interact with me and have some fun! It can be chill and it can be chaotic, but I hope it'll put a smile on your face!
 
-https://www.twitch.tv/celestestarlite
+[Twitch](https://www.twitch.tv/celestestarlite)
 
 And in case you find it easier to support me on patreon or just want to see my stories ahead of time, here's my patreon.
+
+Here is my Twitch, where I stream myself playing games as a VTuber! It's a great way to interact with me and have some fun! It can be chill and it can be chaotic, but I hope it'll put a smile on your face!
+
