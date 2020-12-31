@@ -1,5 +1,5 @@
 ---
-title: Celeste Introductions
+title: Celeste - Introductions
 layout: post
 category: celeste
 ---
