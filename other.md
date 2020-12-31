@@ -1,12 +1,12 @@
 ---
-title: Other
+title: Streams
 layout: default
 ---
-# Other! #
+# Streams! #
 
-This is where anything else I do or have will be put, which mainly involves my adventures in twitch and VTubing! You'll find old VODs, highlights, clips, and other offstream videos.
+This is where you can find information on my vtuber livestreams! You'll find old VODs, highlights, clips, and other offstream videos.
 
-## Am I live? Check here: ##
+## Am I live? Check here! ##
 
 <!-- Add a placeholder for the Twitch embed -->
  <div id="twitch-embed"></div>
@@ -23,3 +23,13 @@ This is where anything else I do or have will be put, which mainly involves my a
       });</script>
 
 If not, you can check out my [latest broadcasts!](https://www.twitch.tv/celestestarlite/videos?filter=archives&sort=time)
+
+## Top Latest Clip ##
+
+<iframe src="https://clips.twitch.tv/embed?clip=AmazingArtsyPancakeBabyRage&parent=https://celestestarlite.github.io/other.html" frameborder="0" allowfullscreen="true" scrolling="no" height="480" width="854"></iframe>
+
+## Legacy Vod of the Month ##
+
+My VTuber Debut (September 12th, 2020)
+
+<iframe width="854" height="480" src="https://www.youtube.com/embed/zF3liY9X8pc" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
