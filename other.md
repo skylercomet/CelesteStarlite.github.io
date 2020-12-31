@@ -22,4 +22,4 @@ This is where anything else I do or have will be put, which mainly involves my a
         channel: "celestestarlite",
       });</script>
 
-## Gamer ##
+If not, you can check out my [latest broadcasts!](https://www.twitch.tv/celestestarlite/videos?filter=archives&sort=time)
