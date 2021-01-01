@@ -24,5 +24,4 @@ Here is my Twitch, where I stream myself playing games as a VTuber! It's a great
 
 And in case you find it easier to support me on patreon or just want to see my stories ahead of time, here's my patreon.
 
-Here is my Twitch, where I stream myself playing games as a VTuber! It's a great way to interact with me and have some fun! It can be chill and it can be chaotic, but I hope it'll put a smile on your face!
-
+[Patreon](https://www.patreon.com/celestestarlite)
