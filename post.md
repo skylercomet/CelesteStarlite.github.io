@@ -11,8 +11,8 @@ there's only one for now (unless I reveal some of my secret ones :3)
 
 ## Celeste: ##
 
-### [Prequel: A Dream - Part 1 (Redux) ](/celeste/2020/07/07/dream-pt-1) ###
-### [Prequel: A Dream - Part 2 (Redux) ](/celeste/2020/07/31/dream-pt-2) ###
+### [Prequel: A Dream - Part 1](/celeste/2020/07/07/dream-pt-1) ###
+### [Prequel: A Dream - Part 2](/celeste/2020/07/31/dream-pt-2) ###
 ### [Celeste - Introductions](/celeste/2020/09/27/introductions) ###
 More coming soon, check back monthly!
 
