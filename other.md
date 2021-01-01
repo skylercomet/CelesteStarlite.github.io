@@ -24,12 +24,10 @@ This is where you can find information on my vtuber livestreams! You'll find old
 
 If not, you can check out my [latest broadcasts!](https://www.twitch.tv/celestestarlite/videos?filter=archives&sort=time)
 
-## Top Latest Highlight ##
-
-<iframe src="https://player.twitch.tv/?video=774481067&parent=https://celestestarlite.github.io/other.html" frameborder="0" allowfullscreen="true" scrolling="no" height="480" width="854"></iframe>
-
 ## Legacy Vod of the Month ##
 
 My VTuber Debut (September 12th, 2020)
 
 <iframe width="854" height="480" src="https://www.youtube.com/embed/zF3liY9X8pc" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+More to come soon! I'll be updating this with highlights and such once I get them sorted out.
