@@ -4,9 +4,9 @@ layout: default
 ---
 # About Me! #
 
-Hi! My name is Celeste. I've found myself fascinated with creative writing even since I was little, and for years I've been thinking about where I can take it. Since then, I've taken the first small steps to bring that simple hobby into something truly special. Whether it's a short story, expressive poem, or free flowing essay, I find myself constantly putting pen to paper in effort to create something I'm proud of.
+Hi! My name is Celeste (she/her). I've found myself fascinated with creative writing even since I was little, and for years I've been thinking about where I can take it. Since then, I've taken the first small steps to bring that simple hobby into something truly special. Whether it's a short story, expressive poem, or free flowing essay, I find myself constantly putting pen to paper in effort to create something I'm proud of.
 
-As I began to leave my comfort zone and put myself out there, I found myself streaming on Twitch. Despite my anxiety, I found a heartwarming community and found incredible support for it. Now, I'm a proud part of the VTuber community, a group of streamers and video creators that are represented by virtual models. Now, you can find me streaming multiple times a week playing games and cracking jokes with friends.
+As I began to leave my comfort zone and put myself out there, I found myself streaming on Twitch. Despite my anxiety, I found a heartwarming community and found incredible support for it. Now, I'm now a VTuber, a streamers/video creator that is represented by a virtual model. Now, you can find me streaming multiple times a week playing games and cracking jokes with friends.
 
 ![Image](/assets/charsheet.png)
 
@@ -18,7 +18,7 @@ This is my Twitter. Here I post updates on just about everything I work on, so i
 
 [Twitter](https://twitter.com/celestestarlite)
 
-Here is my Twitch, where I stream myself playing games as a VTuber! It's a great way to interact with me and have some fun! It can be chill and it can be chaotic, but I hope it'll put a smile on your face!
+Here is my Twitch, where I stream myself playing games as a VTuber! It's a great way to interact with me and have some fun! It can be chill and it can be chaotic, but I hope it'll put a smile on your face! You can also check the [streams](other) section.
 
 [Twitch](https://www.twitch.tv/celestestarlite)
 
