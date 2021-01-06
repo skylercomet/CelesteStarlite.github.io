@@ -6,8 +6,8 @@ This is where you'll find all my writing posts, such as poems and short stories!
 
 ## Poems: ##
 
-### [Poems from 2020](/poetry/2020/12/30/2020poems) ###
-there's only one for now (unless I reveal some of my secret ones :3)
+### [Poems (Past - 2021)](/poetry/2021/01/01/2021poems) ###
+Currently all my poems are rather dark, but hopefully I'll come up with some nice, cute ideas soon orz
 
 ## Celeste: ##
 
