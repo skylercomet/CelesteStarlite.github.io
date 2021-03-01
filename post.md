@@ -16,6 +16,7 @@ Currently all my poems are rather dark, but hopefully I'll come up with some nic
 ### [Celeste - Introductions](/celeste/2020/09/27/introductions) ###
 ### Celeste - Stray Cat (releasing on 3/27) ###
 ### Celeste - Flight (releasing on 4/27) ###
+### [A Dream - Part 3](/celeste/2021/02/28/dream-pt-3) ###
 
 ## Other: ##
 
