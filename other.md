@@ -26,11 +26,9 @@ If not, you can check out my [VODs!](https://www.youtube.com/channel/UCoRECiPve1
 
 ## Last Month's Highlighted VOD ##
 
-Snack's Birthday Stream (January 10th, 2021)
+Brother & Sister Collab - Dark Souls III Part 1 with [Arcling](https://twitter.com/ArclingML?s=20) (February 7th, 2021)
 
-<iframe width="720" height="405" src="https://www.youtube.com/embed/MevtamWeV3Y" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-More to come soon! I'll be updating this with highlights and such once I get them sorted out.
+<iframe width="720" height="405" src="https://www.youtube.com/embed/laPCdAO8fUE" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## Latest Video ##
 
