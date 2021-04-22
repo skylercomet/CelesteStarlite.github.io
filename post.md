@@ -15,8 +15,10 @@ Currently all my poems are rather dark, but hopefully I'll come up with some nic
 ### [Prequel: A Dream - Part 2](/celeste/2020/07/31/dream-pt-2) ###
 ### [Celeste - Introductions](/celeste/2020/09/27/introductions) ###
 ### [Celeste - Stray Cat](/celeste/2021/03/28/stray-cat) ###
-### Celeste - Flight (releasing on 4/27) ###
+### [Celeste - Flight](/celeste/2021/04/22/wings) ###
 ### [A Dream - Part 3](/celeste/2021/02/28/dream-pt-3) ###
+### Celeste - Transcript (Releasing in May) ###
+### Celeste - Forest (Releasing in June) ###
 
 ## Other: ##
 
