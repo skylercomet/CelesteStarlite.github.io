@@ -26,8 +26,7 @@ Currently all my poems are rather dark, but hopefully I'll come up with some nic
 
 ### [Dice - A Story of Chance](/prose/2020/11/30/dice) ###
 ### [Failure - A Story of Error](/prose/2020/03/19/failure) ###
-### [Analysis - This one is strictly classwork](/schoolwork/2021/02/11/analysis) ### 
-### [Mindmaps that will be archived (this is literally schoolwork)](/schoolwork/2021/05/27/archive) ###
+### [Analysis (Will be altered down the line)](/schoolwork/2021/02/11/analysis) ###
 ### [Mindmap - Memories](/other/2021/05/27/memories) ###
 ### [Mindmap - Birthday](/other/2021/05/27/birthday) ###
 Mostly just school things, but they're school things I'm mostly proud of!
