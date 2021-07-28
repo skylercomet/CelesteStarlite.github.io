@@ -26,11 +26,11 @@ If not, you can check out my [VODs!](https://www.youtube.com/channel/UCoRECiPve1
 
 ## Last Month's Highlighted VOD ##
 
-12 Hour Birthday Donathon!! (April 11th, 2021)
+Celeste's Return Stream! (July 23rd, 2021)
 
-My favorite stream I've ever done, all unedited! (I removed the breaks just so it could fit into a 12 hour youtube video orz)
+After almost 5 weeks, I returned to streaming. This is what occured. (Also ignore the first play of the video at the beginning there was no audio because of a glitch orz)
 
-<iframe width="720" height="405" src="https://www.youtube.com/embed/hNiHokiNK8g" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="720" height="405" src="https://www.youtube.com/watch?v=qVFkJlm8QKU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## Latest Video ##
 
