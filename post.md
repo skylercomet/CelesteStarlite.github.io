@@ -18,9 +18,10 @@ Currently all my poems are rather dark, but hopefully I'll come up with some nic
 ### [Celeste - Flight](/celeste/2021/04/22/wings) ###
 ### [A Dream - Part 3](/celeste/2021/02/28/dream-pt-3) ###
 ### [Celeste - Transcript](/celeste/2021/05/27/transcript) ###
-### Celeste - Forest (Releasing in June) ###
-### Celeste - Door (Releasing in July) ###
-### Celeste - Cooking (Releasing in August) ###
+### [Celeste - Forest](/celeste/2021/07/27/forest) ###
+### Celeste - Door (Releasing in August) ###
+### Celeste - Cooking (Releasing in September) ###
+### Celeste - Proverbs (Releasing in October) ###
 
 ## Other: ##
 
