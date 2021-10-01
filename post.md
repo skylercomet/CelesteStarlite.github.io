@@ -22,6 +22,7 @@ Currently all my poems are rather dark, but hopefully I'll come up with some nic
 ### [Celeste - Door](/celeste/2021/09/30/door) ###
 ### Celeste - Cooking (Releasing in October) ###
 ### Celeste - Proverbs (Releasing in November) ###
+### Celeste - Rain (Releasing in December) ###
 
 ## Other: ##
 
