@@ -36,4 +36,6 @@ After almost 5 weeks, I returned to streaming. This is what occured. (Also ignor
 
 Destiny 2 Raid Highlights, which is my first edited video! I'm really excited to make more and hone my skills, but for now this video is something I'm really proud of. Even if you don't play Destiny, I think it is still enjoyable to watch so I hope you check it out!
 
+I promise another video is coming soon!! It should be here in the next week or two, but it's another Destiny 2 video. This one will be much different, so I hope you'll still enjoy it!
+
 <iframe width="720" height="405" src="https://www.youtube.com/embed/YhGu5BlStE4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
