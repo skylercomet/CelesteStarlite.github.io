@@ -20,7 +20,7 @@ Currently all my poems are rather dark, but hopefully I'll come up with some nic
 ### [Celeste - Transcript](/celeste/2021/05/27/transcript) ###
 ### [Celeste - Forest](/celeste/2021/07/27/forest) ###
 ### [Celeste - Door](/celeste/2021/09/30/door) ###
-### Celeste - Cooking (Releasing in October) ###
+### [Celeste - Cooking](/celeste/2021/10/27/cooking) ###
 ### Celeste - Proverbs (Releasing in November) ###
 ### Celeste - Rain (Releasing in December) ###
 
@@ -28,7 +28,7 @@ Currently all my poems are rather dark, but hopefully I'll come up with some nic
 
 ### [Dice - A Story of Chance](/prose/2020/11/30/dice) ###
 ### [Failure - A Story of Error](/prose/2020/03/19/failure) ###
-### [Analysis (Will be altered down the line)](/schoolwork/2021/02/11/analysis) ###
+### [Analysis Pieces](/schoolwork/2021/02/11/analysis) ###
 ### [Mindmap - Memories](/other/2021/05/27/memories) ###
 ### [Mindmap - Birthday](/other/2021/05/27/birthday) ###
-Mostly just school things, but they're school things I'm mostly proud of!
+Mostly just old school things, but they're school things I'm mostly proud of!
