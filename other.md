@@ -30,10 +30,10 @@ Project Volta and Stream Overhaul (November 27th, 2021)
 
 This is it, the reveal of everything I've been working on for almost an entire year now. Learn about the coming future of Celeste and her stories, as well as the future of my streams and the new look. There's no music (and there will be no music moving forwards in VODs), so feel free to put on your own! This is just to make edits down the line, so I'm hoping for more videos to come!
 
-<iframe width="720" height="405" src="https://youtu.be/lDUIQSsI04k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="720" height="405" src="https://www.youtube.com/embed/lDUIQSsI04k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## Latest Video ##
 
 I played Poppy Playtime's first chapter on stream, and recorded it for your viewing pleasure! I hope you enjoy watching me get scared out of my mind :3
 
-<iframe width="720" height="405" src="https://www.youtube.com/watch?v=TJCv2_OfhTU&t=864s" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>S
+<iframe width="720" height="405" src="https://www.youtube.com/embed/TJCv2_OfhTU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
