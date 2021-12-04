@@ -26,16 +26,14 @@ If not, you can check out my [VODs!](https://www.youtube.com/channel/UCoRECiPve1
 
 ## Last Month's Highlighted VOD ##
 
-Jevil Nohit and Melty Blood! (September 30th, 2021)
+Project Volta and Stream Overhaul (November 27th, 2021)
 
-Just looking for simple things I could do alone while in college, I streamed some attempts of me trying to beat Deltarune's Jevil fight without being hit. Afterwards, I spent a while chilling out before playing a bit of Melty Blood which had come out just then.
+This is it, the reveal of everything I've been working on for almost an entire year now. Learn about the coming future of Celeste and her stories, as well as the future of my streams and the new look. There's no music (and there will be no music moving forwards in VODs), so feel free to put on your own! This is just to make edits down the line, so I'm hoping for more videos to come!
 
-<iframe width="720" height="405" src="https://youtu.be/bM15DTGmqGM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="720" height="405" src="https://youtu.be/lDUIQSsI04k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## Latest Video ##
 
-After 9 months, I have yet another video!! This is a compilation of my runs through the Prophecy dungeon to obtain the weapons of the nine.
+I played Poppy Playtime's first chapter on stream, and recorded it for your viewing pleasure! I hope you enjoy watching me get scared out of my mind :3
 
-I actually am already working on a new video that isn't Destiny 2 related, so there should be another soon! For now, however, I hope you guys enjoy watching this!
-
-<iframe width="720" height="405" src="https://www.youtube.com/watch?v=bBGVczJYcQ0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="720" height="405" src="https://www.youtube.com/watch?v=TJCv2_OfhTU&t=864s" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>S

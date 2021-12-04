@@ -4,12 +4,8 @@ layout: home
 ---
 This is where you'll find all my writing posts, such as poems and short stories! Feel free to browse all the main sections, or go to the bottom to see every post chronologically!
 
-## Poems: ##
-
-### [Poems (Past - 2021)](/poetry/2021/01/01/2021poems) ###
-Currently all my poems are rather dark, but hopefully I'll come up with some nice, cute ideas soon orz
-
-## Celeste: ##
+## Celeste: Introductions ##
+The first Chapter of Celeste's Stories: July 2020 - November 2021
 
 ### [Prequel: A Dream - Part 1](/celeste/2020/07/07/dream-pt-1) ###
 ### [Prequel: A Dream - Part 2](/celeste/2020/07/31/dream-pt-2) ###
@@ -21,8 +17,22 @@ Currently all my poems are rather dark, but hopefully I'll come up with some nic
 ### [Celeste - Forest](/celeste/2021/07/27/forest) ###
 ### [Celeste - Door](/celeste/2021/09/30/door) ###
 ### [Celeste - Cooking](/celeste/2021/10/27/cooking) ###
-### Celeste - Proverbs (Releasing in November) ###
+### [Celeste - Proverbs](/celeste/2021/12/04/proverbs) ###
 ### Celeste - Rain (Releasing in December) ###
+### Celeste - Shatter (Releasing in January) ###
+### Celeste - Reflection (Releasing in February) ###
+### Celeste - Phoenix (tw/su*cide) (Releasing in March) ###
+
+## Celeste: Volta ##
+Celeste's adventure to a new world.
+
+### [Celeste - Volta](/volta/2021/12/04/volta) ###
+### ??? (Coming Soon) ###
+
+## Poems: ##
+
+### [Poems (Past - 2021)](/poetry/2021/01/01/2021poems) ###
+Currently all my poems are rather dark, but hopefully I'll come up with some nice, cute ideas soon orz
 
 ## Other: ##
 
