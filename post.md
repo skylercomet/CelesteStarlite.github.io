@@ -21,7 +21,7 @@ The first Chapter of Celeste's Stories: July 2020 - November 2021
 ### [Celeste - Rain](/celeste/2022/03/28/rain) ###
 ### [Celeste - Shatter](/celeste/2022/03/28/shatter) ###
 ### [Celeste - Reflection](/celeste/2022/03/28/reflection) ###
-### [Celeste - Phoenix](/celeste/2022/03/28/rain) (tw/su*cide) ###
+### [Celeste - Phoenix](/celeste/2022/03/28/phoenix) (tw/su*cide) ###
 
 ## Celeste: Volta ##
 Celeste's adventure to a new world.
