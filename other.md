@@ -24,16 +24,18 @@ This is where you can find information on my VTuber livestreams! You'll find old
 
 If not, you can check out my [VODs!](https://www.youtube.com/channel/UCoRECiPve1lMf-CPBCHYLAg)
 
-## Last Month's Highlighted VOD ##
+## Last Month's* Highlighted VOD ##
 
-Project Volta and Stream Overhaul (November 27th, 2021)
+It Takes Two but we're literally at each others' throats (January 2nd, 2022)
 
-This is it, the reveal of everything I've been working on for almost an entire year now. Learn about the coming future of Celeste and her stories, as well as the future of my streams and the new look. There's no music (and there will be no music moving forwards in VODs), so feel free to put on your own! This is just to make edits down the line, so I'm hoping for more videos to come!
+*This is not last month lol
 
-<iframe width="720" height="405" src="https://www.youtube.com/embed/lDUIQSsI04k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+I didn't have a lot of vods from January to March because I was on break to focus on classes! I instead want to highlight one of the biggest things I did, which was a playthrough of It Takes Two with my brother! Only part one of course, the second is on the channel afterwards :3
+
+<iframe width="720" height="405" src="https://www.youtube.com/watch?v=tkMAOxwq7TE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## Latest Video ##
 
-I played Poppy Playtime's first chapter on stream, and recorded it for your viewing pleasure! I hope you enjoy watching me get scared out of my mind :3
+I made a big edit of some of my best moments from 2021, which I was really happy with! Go check out all the fun times that we all had hehe :3
 
-<iframe width="720" height="405" src="https://www.youtube.com/embed/TJCv2_OfhTU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="720" height="405" src="https://www.youtube.com/watch?v=clrYEO234G8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
