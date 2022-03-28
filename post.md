@@ -18,15 +18,17 @@ The first Chapter of Celeste's Stories: July 2020 - November 2021
 ### [Celeste - Door](/celeste/2021/09/30/door) ###
 ### [Celeste - Cooking](/celeste/2021/10/27/cooking) ###
 ### [Celeste - Proverbs](/celeste/2021/12/04/proverbs) ###
-### Celeste - Rain (Releasing in December) ###
-### Celeste - Shatter (Releasing in January) ###
-### Celeste - Reflection (Releasing in February) ###
-### Celeste - Phoenix (tw/su*cide) (Releasing in March) ###
+### [Celeste - Rain](/celeste/2022/03/28/rain) ###
+### [Celeste - Shatter](/celeste/2022/03/28/shatter) ###
+### [Celeste - Reflection](/celeste/2022/03/28/reflection) ###
+### [Celeste - Phoenix](/celeste/2022/03/28/rain) (tw/su*cide) ###
 
 ## Celeste: Volta ##
 Celeste's adventure to a new world.
 
 ### [Celeste - Volta](/volta/2021/12/04/volta) ###
+### Celeste - Hillside (Coming Soon) ###
+### Celeste - Encounter (Coming Soon) ###
 ### ??? (Coming Soon) ###
 
 ## Poems: ##
