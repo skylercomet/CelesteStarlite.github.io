@@ -32,10 +32,10 @@ It Takes Two but we're literally at each others' throats (January 2nd, 2022)
 
 I didn't have a lot of vods from January to March because I was on break to focus on classes! I instead want to highlight one of the biggest things I did, which was a playthrough of It Takes Two with my brother! Only part one of course, the second is on the channel afterwards :3
 
-<iframe width="720" height="405" src="https://www.youtube.com/watch?v=tkMAOxwq7TE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="720" height="405" src="https://www.youtube.com/embed/tkMAOxwq7TE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## Latest Video ##
 
 I made a big edit of some of my best moments from 2021, which I was really happy with! Go check out all the fun times that we all had hehe :3
 
-<iframe width="720" height="405" src="https://www.youtube.com/watch?v=clrYEO234G8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="720" height="405" src="https://www.youtube.com/embed/clrYEO234G8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
